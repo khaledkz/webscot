@@ -1,0 +1,150 @@
+ *{
+  
+  margin:0;
+  padding:0;
+}
+
+header{
+  
+  background:#71a3f2;
+  width:100%;
+  height:80px;
+  
+}
+
+
+ #header{
+	 background-color:#6d0634;
+ }
+ 
+
+
+#headera{
+  display:flex;
+  float:left;
+  margin-left:13px;
+  margin-top:15px;
+}
+  h3{
+  
+  margin-top:8px;
+  
+}
+  nav{
+  
+  
+  margin-top:10px;
+}
+
+  #header li {
+  display:inline-block;
+  padding:5px;
+}
+  #header a{
+text-decoration:none; 
+ font-size:20px;
+padding:10px;
+  color:white;}
+  #header a:hover{
+    border-radius:10px;
+  background-color:#bc2368;  
+    
+} 
+
+
+#activehome{
+  border-radius:10px;
+  background-color:#bc2368;
+}
+
+
+@media screen and (min-width: 780px) {
+ }
+
+#rowee img{
+  
+  margin-bottom:30px;
+}
+
+h2{
+  font-family:Andalus;
+  margin:15px;
+}
+h1{
+  font-family:Andalus;
+  margin:15px;
+}
+
+#citerScot{
+  
+  margin-top:40px;
+}
+
+button{
+  font-family:Comic Sans MS;
+  margin-top:10px;
+}
+
+#sectionWelcomeScot{
+  background-color:#20dbac;
+  width:100%;
+   
+}
+#letm h2{
+  margin-bottom:35px;
+}
+#sectionWelcomeScot img{
+  border-radius:120px;
+}
+#sectionLast{
+  background-color:#e5475c;
+  width:100%;
+  
+}
+
+#citesEcand img{
+  margin-bottom:25px;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+#footer{
+  background-color:grey;
+  width:100%;
+  height:30px;
+}
+#mov{
+  color:white;
+  margin-left:20px;
+  margin-top:4px;
+}
+#pargraphMove p{
+  margin:30px;
+  }
+#hrefb a{
+  text-decoration:none;
+   color:white;
+}
+#hrefa a{
+  text-decoration:none;
+  color:white;
+}
+
+#carousel-example-generic{
+  
+}
+
+
+
+#footer{
+  margin-top:-10px;
+}
+
+#carousel-example-generic{
+  
+  width:100%;
+}
